@@ -1,5 +1,7 @@
 A simple pet appointments app built with [NextJS](https://nextjs.org/). The idea was to build a simple app that helps pet doctors or hospitals manage their pet appointments.
 
+Here is a link to the demo site [https://pet-appointments-app.vercel.app](https://pet-appointments-app.vercel.app).
+
 ## Getting Started
 
 Install dependecies:
